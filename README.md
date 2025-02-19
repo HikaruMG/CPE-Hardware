@@ -1,2 +1,1 @@
-# CPE-Hardware
- Computer Hardware KU
+# CPE-Hardware [Practice in Class]
